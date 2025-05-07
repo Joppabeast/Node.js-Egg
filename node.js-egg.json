@@ -13,9 +13,9 @@
         "ghcr.io\/parkervcp\/yolks:nodejs_18",
         "ghcr.io\/parkervcp\/yolks:nodejs_17",
         "ghcr.io\/parkervcp\/yolks:nodejs_16",
-        "ghcr.io\/parkervcp\/yolks:nodejs_15",
-        "ghcr.io\/parkervcp\/yolks:nodejs_14",
-        "ghcr.io\/parkervcp\/yolks:nodejs_12"
+        "ghcr.io\/parkervcp\/yolks:nodejs_19",
+        "ghcr.io\/parkervcp\/yolks:nodejs_20",
+        "ghcr.io\/parkervcp\/yolks:nodejs_22"
     ],
     "file_denylist": [],
     "startup": "${command_first}; fi; if [[ ! -z ${command_second} ]]; then ${command_second};",
